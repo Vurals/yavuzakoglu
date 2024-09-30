@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yavuzakoglu/static/css/main.1a9c38e8.css",
+    "main.js": "/yavuzakoglu/static/js/main.035d34e0.js",
+    "static/js/453.ed3810f9.chunk.js": "/yavuzakoglu/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/yavuzakoglu/index.html",
+    "main.1a9c38e8.css.map": "/yavuzakoglu/static/css/main.1a9c38e8.css.map",
+    "main.035d34e0.js.map": "/yavuzakoglu/static/js/main.035d34e0.js.map",
+    "453.ed3810f9.chunk.js.map": "/yavuzakoglu/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a9c38e8.css",
+    "static/js/main.035d34e0.js"
+  ]
+}
